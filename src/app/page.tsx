@@ -38,7 +38,7 @@ export default function App() {
 
   useEffect(() => {
     notifications.show({
-      message: "更新时间：2025.10.31 来源于：https://www.jlc-smt.com/lcsc/basic",
+      message: "原始数据来源于：https://www.jlc-smt.com/lcsc/basic",
       withBorder: true,
       autoClose: 4000,
       position: "bottom-center",
